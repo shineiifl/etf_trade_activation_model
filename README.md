@@ -6,32 +6,27 @@ Model to predict the potential client for ETF trade activation
         2. TO BUILD A PROPENSITY MODEL FOR THE CUSTOMERS WHO ARE LIKELY TO TRADE POST ETF OUT OF 3.18LAKH ETF OPTIN CUSTOMERS.
 
 # FEATURES :
-  * Client_ID
-  * Age
-  * Days since account opened (Account_open_date - Till date)
-  * Metro
-  * Karvy
-  * E2 Channel
-  * Lead Source
-  * City
-  * State
-  * Channel (Email, Whatsapp, SMS)
-  * Commodity
-  * Currency
-  * Futures
-  * Options
-  * Intraday
-  * Number of Logins
-  * Number of Trades
-  * Logins since ETF accepted
-  * Mobile APP (Y/N)
-  * MTF
-  * Income Per Annum
-  * Brokerage (Segment Wise)
-  * Z20
-  * Ledger Balance
-  * DP HOlding
-  
+* Age
+* sex
+* income_per_annum
+* occupation
+* Z20
+* app_status
+* E2 channel
+* iskarvy
+* KRA
+<br>
+<br>
+* number of logins in last year
+* num_trades in last year
+* months since last login
+* months since last trade
+* FAO segment trading client
+* delivery segment trading client
+* intraday segment trading client
+* dp_holding
+* ledger_balance
+* 
 # PROCEDURE :
 -->  Clients acquired from random campaigns who have optin for free stock are 3.18Lakh -> YES. Further, we have to bifurcate them into two segments :
   * I. New Clients
