@@ -39,6 +39,12 @@ Model to predict the potential client for ETF trade activation
     
 --> Futher, we have 54k customers who are trading post accepting ETF out of 3.18Lakh customers. NOW... model is built to predict an ETF accepted will trade post ETF 
 
+# Model and accuracy obtained :
+### Catboost:
+* Accuracy:0.9877
+* AUC:0.998
+* Recall:0.96
+* Logloss: 0.035
 
 
 
