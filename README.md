@@ -37,8 +37,7 @@ Model to predict the potential client for ETF trade activation
     on 3.18lakh customer base who have accepted ETF. After we find the effective channel and target a particular segment of clients using that effective
     channel for conversion.
     
---> Futher, we have 54k customers who are trading post accepting ETF out of 3.18Lakh customers. NOW... we have to build a machine learning model to find propensity
-    of customers who are probable of trading post accepting ETF.
+--> Futher, we have 54k customers who are trading post accepting ETF out of 3.18Lakh customers. NOW... model is built to predict an ETF accepted will trade post ETF 
 
 
 
