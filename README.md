@@ -15,7 +15,6 @@ Model to predict the potential client for ETF trade activation
 * E2 channel
 * iskarvy
 * KRA
-<br>
 * number of logins in last year
 * num_trades in last year
 * months since last login
