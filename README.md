@@ -26,7 +26,7 @@ Model to predict the potential client for ETF trade activation
 * intraday segment trading client
 * dp_holding
 * ledger_balance
-* 
+
 # PROCEDURE :
 -->  Clients acquired from random campaigns who have optin for free stock are 3.18Lakh -> YES. Further, we have to bifurcate them into two segments :
   * I. New Clients
